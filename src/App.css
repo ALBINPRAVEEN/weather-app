@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  padding-top: 15em;
+}
+
+.MuiTypography-colorTextSecondary{
+  color: rgb(24, 23, 23) !important;
+}
+
+.MuiTypography-body1{
+  text-align: center !important;
+
+}
+
+.MuiInputBase-root{
+  width:20rem;
+}
+
+.MuiGrid-spacing-xs-2 {
+  padding-top:60px !important;
+}
+
+.MuiCardHeader-root {
+  background-color: rgba(18, 87, 151, 0.897);
+}
+
+.MuiCardHeader-subheader{
+  color: whitesmoke !important;
+}
+.MuiCardHeader-title{
+  color: whitesmoke !important;
+  text-align: center !important;
+}
+
+.errCard{
+  padding-top: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.navRight{
+  margin-left: auto !important;
+}
